@@ -20,3 +20,7 @@ If you don't want to use the .bat files, you can manually execute the bot with t
  For email and password:
 
     java -jar HoneygainBot.jar [Email] [Password] [Repeat everyday? True/False]
+
+## Update (4/20/22)
+    
+    This still works but now you have to be an active earner or the API won't let you claim
